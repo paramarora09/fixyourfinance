@@ -70,6 +70,6 @@ We welcome contributions to MoneyTrail! If you find any bugs or have ideas for n
 
 ## License
 
-MoneyTrail is open-source software licensed under the [MIT License](LICENSE).
+FixyourFinance is open-source software licensed under the [MIT License](LICENSE).
 
 Enjoy tracking your expenses with MoneyTrail! If you have any questions or need assistance, feel free to contact us or open an issue. Happy budgeting!
